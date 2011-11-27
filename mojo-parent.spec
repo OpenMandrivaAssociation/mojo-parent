@@ -1,6 +1,6 @@
 Name:           mojo-parent
 Version:        28
-Release:        2
+Release:        4
 Summary:        Codehaus MOJO parent project pom file
 
 Group:          Development/Java
