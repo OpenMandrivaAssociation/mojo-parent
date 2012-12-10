@@ -51,3 +51,11 @@ install -pm 644 pom.xml \
 
 
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 28-4
++ Revision: 734181
+- rebuild
+- imported package mojo-parent
+
