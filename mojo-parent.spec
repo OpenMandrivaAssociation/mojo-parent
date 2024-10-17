@@ -5,7 +5,7 @@ Release:        4.1%{?dist}
 Summary:        Codehaus MOJO parent project pom file
 
 License:        ASL 2.0
-URL:            http://mojo.codehaus.org/
+URL:            https://mojo.codehaus.org/
 Source0:        http://repo1.maven.org/maven2/org/codehaus/mojo/%{name}/%{version}/%{name}-%{version}-source-release.zip
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt
 BuildArch:      noarch
